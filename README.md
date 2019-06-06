@@ -1,4 +1,10 @@
 # hui-core-algorithm-dijkstra
+
+
+# 項目迁移
+2019-06-05 项目全部迁移到码云gitee  
+github不维护  
+项目地址： https://gitee.com/huhui_/hui-core-algorithm-dijkstra
 ## 前言
 【算法】迪杰斯特拉(dijkstra)算法计算最短距离
 【实例】地铁站最短距离计算
